@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
+            "value": "447441435730"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alien"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         }, 
 	"GREETINGS": {
             "description": "Activate Welcome and Leave Messages (type 'True')",
@@ -25,7 +25,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -58,7 +58,7 @@
      "PREMIUM": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "447405935255"
+            "value": "447441435730"
         },
     "LISTICON": {
             "description": "small logo or icon to appear in menu (leave it if you Wish to use the default)",
