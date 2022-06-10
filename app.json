@@ -68,12 +68,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -83,32 +83,32 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒.YT@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/c/alienalfa"
+            "value": "https://instagram.com/zalioos?igshid=YmMyMTA2M2Y="
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/zaliooa/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/zalioos?igshid=YmMyMTA2M2Y="
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "𝗭𝚫𝗟𝗜𝛩𝛩𝐒"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
